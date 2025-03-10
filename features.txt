@@ -2,4 +2,8 @@ Awesome new feature
 More features
 master
 feature2
+<<<<<<< HEAD
 conflict
+=======
+feature3
+>>>>>>> 99aadde (Feature 23)
