@@ -2,3 +2,4 @@ Awesome new feature
 More features
 master
 feature2
+conflict
